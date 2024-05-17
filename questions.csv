@@ -1,0 +1,16 @@
+﻿id,question,answer,category,a,b,c,d
+1,Who developed Python Programming Language?,c,python,Wick van Rossum,Rasmus Lerdorf,Guido van Rossum,Niene Stom
+2, Which type of Programming does Python support?,d,python,object-oriented programming,structured programming,functional programming,all of the mentioned
+3,Is Python case sensitive when dealing with identifiers?,b,python,no,yes,machine dependent,none
+4,Which of the following is the correct extension of the Python file?,c,python,.python,.pl,.py,.p
+5,Which of the following option leads to the portability and security of Java?,a,java, Bytecode is executed by JVM, The applet makes the Java code secure and portable,Use of exception handling,Dynamic binding between objects
+6,Which of the following is not a Java features?,c,java,Dynamic,1. Architecture Neutral,1. Use of pointers,1. Object-oriented
+7,The \u0021 article referred to as a,a,java,1. Unicode escape sequence,1. Octal escape,1. Hexadecimal,1. Line feed
+8,_____ is used to find and fix bugs in the Java programs.,d,java,1. JVM,JRE,JDK,JDB
+9,Which of the following is a valid declaration of a char?,a,java,1. char ch = '\utea';, char ca = 'tea';,1. char cr = \u0223;,1. char cc = '\itea';
+10,"If NOIDA is written as OPJEB, then what will be the code for DELHI?",c,reasoning,1. EFMAK,EFAMK,1. EFMIJ,1. EFMIK
+11,"If AIRLINE is written as ENILRIA7, then RAILWAY will be written as -",a,reasoning,1. YAWLIAR7,YAWLIAR8,1. YAWILAR7,1. YAWILAR8
+12," If CAT is coded as PATC, JOY is coded as POYJ; similarly the word WING will be coded as -",b,reasoning,1. PIGNW,PINGW,3. PGNIW,4. PIWGN
+13,"Which number should come next in the series 1, 2, 3, 10, ___",b,reasoning,1. 79,99,89,98
+14,"Which number is wrong in the series 2, 6, 15, 31, 56, 93?",d,reasoning,6,31,56,93
+15,"The number comes next in the series 12, 36, 109, 329, ... -",b,reasoning,900,990,890,none
